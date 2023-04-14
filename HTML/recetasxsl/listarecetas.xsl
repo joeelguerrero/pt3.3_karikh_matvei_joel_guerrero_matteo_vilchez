@@ -102,7 +102,7 @@
 					</ul>
 				</nav>
 			</header>
-			<h1>Lista Recetas</h1>
+			<h1>Lista de Recetas</h1>
 			<ul class="ull">
 			<xsl:for-each select="recetas/receta">
 				<li class="lii">
