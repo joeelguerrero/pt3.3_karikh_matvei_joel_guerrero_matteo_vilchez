@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../recetasxsl/listarecetas.xsl" type="text/xsl"?>
+<recetas>
+    <receta>
+        <nombre>Pizza Margarita</nombre>
+        <dificultad>Fácil</dificultad>
+        <cocina>Tradicional</cocina>
+        <Vegetariana>Sí</Vegetariana>
+        <celicos>Sí</celicos>
+        <tiempo>30 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>1 bola de masa de pizza</ingrediente>
+            <ingrediente>200 gramos de tomate triturado</ingrediente>
+            <ingrediente>1 bola de mozzarella fresca</ingrediente>
+            <ingrediente>Orégano al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>1. Precalentar el horno a 200 grados Celsius.</paso>
+            <paso>2. Extender la masa de pizza sobre una bandeja para hornear.</paso>
+            <paso>3. Cubrir la masa con el tomate triturado.</paso>
+            <paso>4. Añadir la mozzarella fresca cortada en rodajas.</paso>
+            <paso>5. Espolvorear con orégano al gusto.</paso>
+            <paso>6. Hornear durante 15-20 minutos o hasta que la pizza esté dorada.</paso>
+        </preparacion>
+        <imagen>/imatges/descarga.jpg</imagen>
+    </receta>
+
+    <receta>
+        <nombre>Sopa de tomate</nombre>
+        <dificultad>Media</dificultad>
+        <cocina>Moderno</cocina>
+        <Vegetariana>sí</Vegetariana>
+        <celicos>No</celicos>
+        <tiempo>45 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>Cebolla</ingrediente>
+            <ingrediente>Ajo</ingrediente>
+            <ingrediente>Tomates en lata</ingrediente>
+            <ingrediente>Caldo de pollo</ingrediente>
+            <ingrediente>Pan rallado</ingrediente>
+            <ingrediente>Sal</ingrediente>
+            <ingrediente>Pimienta</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Cortar la cebolla y el ajo en trozos pequeños.</paso>
+            <paso>Saltear la cebolla y el ajo en una olla hasta que estén dorados.</paso>
+            <paso>Añadir los tomates en lata y el caldo de pollo a la olla y dejar hervir.</paso>
+            <paso>Triturar la mezcla con una batidora de mano hasta que esté suave.</paso>
+            <paso>Añadir el pan rallado y mezclar bien.</paso>
+            <paso>Sazonar con sal y pimienta al gusto.</paso>
+            <paso>Servir caliente.</paso>
+        </preparacion>
+    </receta>
+
+    <receta>
+        <nombre>Ensalada de pollo</nombre>
+        <dificultad>Díficil</dificultad>
+        <cocina>Moderno</cocina>
+        <Vegetariana>No</Vegetariana>
+        <celicos>Sí</celicos>
+        <tiempo>1h 15 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>Pollo cocido y desmenuzado</ingrediente>
+            <ingrediente>Lechuga</ingrediente>
+            <ingrediente>Tomates cherry</ingrediente>
+            <ingrediente>Pimiento rojo</ingrediente>
+            <ingrediente>Cebolla morada</ingrediente>
+            <ingrediente>Maíz dulce</ingrediente>
+            <ingrediente>Aderezo para ensalada</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Lavar y cortar la lechuga en trozos pequeños.</paso>
+            <paso>Cortar los tomates cherry por la mitad.</paso>
+            <paso>Cortar el pimiento rojo en tiras finas.</paso>
+            <paso>Cortar la cebolla morada en tiras finas.</paso>
+            <paso>Mezclar todos los ingredientes en un tazón grande.</paso>
+            <paso>Añadir el pollo desmenuzado y mezclar bien.</paso>
+            <paso>Añadir aderezo para ensalada al gusto y mezclar bien.</paso>
+            <paso>Servir frío.</paso>
+        </preparacion>
+    </receta>
+    <!-- copias -->
+    <receta>
+        <nombre>Macarrones con salsa Curry</nombre>
+        <dificultad>Fácil</dificultad>
+        <cocina>Tradicional</cocina>
+        <Vegetariana>Sí</Vegetariana>
+        <celicos>Sí</celicos>
+        <tiempo>30 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>1 bola de masa de pizza</ingrediente>
+            <ingrediente>200 gramos de tomate triturado</ingrediente>
+            <ingrediente>1 bola de mozzarella fresca</ingrediente>
+            <ingrediente>Orégano al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>1. Precalentar el horno a 200 grados Celsius.</paso>
+            <paso>2. Extender la masa de pizza sobre una bandeja para hornear.</paso>
+            <paso>3. Cubrir la masa con el tomate triturado.</paso>
+            <paso>4. Añadir la mozzarella fresca cortada en rodajas.</paso>
+            <paso>5. Espolvorear con orégano al gusto.</paso>
+            <paso>6. Hornear durante 15-20 minutos o hasta que la pizza esté dorada.</paso>
+        </preparacion>
+        <imagen>/imatges/descarga.jpg</imagen>
+    </receta>
+
+    <receta>
+        <nombre>Galletas de avena</nombre>
+        <dificultad>Media</dificultad>
+        <cocina>Moderno</cocina>
+        <Vegetariana>sí</Vegetariana>
+        <celicos>No</celicos>
+        <tiempo>45 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>Cebolla</ingrediente>
+            <ingrediente>Ajo</ingrediente>
+            <ingrediente>Tomates en lata</ingrediente>
+            <ingrediente>Caldo de pollo</ingrediente>
+            <ingrediente>Pan rallado</ingrediente>
+            <ingrediente>Sal</ingrediente>
+            <ingrediente>Pimienta</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Cortar la cebolla y el ajo en trozos pequeños.</paso>
+            <paso>Saltear la cebolla y el ajo en una olla hasta que estén dorados.</paso>
+            <paso>Añadir los tomates en lata y el caldo de pollo a la olla y dejar hervir.</paso>
+            <paso>Triturar la mezcla con una batidora de mano hasta que esté suave.</paso>
+            <paso>Añadir el pan rallado y mezclar bien.</paso>
+            <paso>Sazonar con sal y pimienta al gusto.</paso>
+            <paso>Servir caliente.</paso>
+        </preparacion>
+    </receta>
+
+    <receta>
+        <nombre>Matambe a la pizza parrila</nombre>
+        <dificultad>Díficil</dificultad>
+        <cocina>Moderno</cocina>
+        <Vegetariana>No</Vegetariana>
+        <celicos>Sí</celicos>
+        <tiempo>1h 15 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>Pollo cocido y desmenuzado</ingrediente>
+            <ingrediente>Lechuga</ingrediente>
+            <ingrediente>Tomates cherry</ingrediente>
+            <ingrediente>Pimiento rojo</ingrediente>
+            <ingrediente>Cebolla morada</ingrediente>
+            <ingrediente>Maíz dulce</ingrediente>
+            <ingrediente>Aderezo para ensalada</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Lavar y cortar la lechuga en trozos pequeños.</paso>
+            <paso>Cortar los tomates cherry por la mitad.</paso>
+            <paso>Cortar el pimiento rojo en tiras finas.</paso>
+            <paso>Cortar la cebolla morada en tiras finas.</paso>
+            <paso>Mezclar todos los ingredientes en un tazón grande.</paso>
+            <paso>Añadir el pollo desmenuzado y mezclar bien.</paso>
+            <paso>Añadir aderezo para ensalada al gusto y mezclar bien.</paso>
+            <paso>Servir frío.</paso>
+        </preparacion>
+    </receta>
+
+    <receta>
+        <nombre>Picarones peruanos</nombre>
+        <dificultad>Fácil</dificultad>
+        <cocina>Tradicional</cocina>
+        <Vegetariana>Sí</Vegetariana>
+        <celicos>Sí</celicos>
+        <tiempo>30 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>1 bola de masa de pizza</ingrediente>
+            <ingrediente>200 gramos de tomate triturado</ingrediente>
+            <ingrediente>1 bola de mozzarella fresca</ingrediente>
+            <ingrediente>Orégano al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>1. Precalentar el horno a 200 grados Celsius.</paso>
+            <paso>2. Extender la masa de pizza sobre una bandeja para hornear.</paso>
+            <paso>3. Cubrir la masa con el tomate triturado.</paso>
+            <paso>4. Añadir la mozzarella fresca cortada en rodajas.</paso>
+            <paso>5. Espolvorear con orégano al gusto.</paso>
+            <paso>6. Hornear durante 15-20 minutos o hasta que la pizza esté dorada.</paso>
+        </preparacion>
+        <imagen>/imatges/descarga.jpg</imagen>
+    </receta>
+
+    <receta>
+        <nombre>Empanadas de salchicha</nombre>
+        <dificultad>Media</dificultad>
+        <cocina>Moderno</cocina>
+        <Vegetariana>sí</Vegetariana>
+        <celicos>No</celicos>
+        <tiempo>45 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>Cebolla</ingrediente>
+            <ingrediente>Ajo</ingrediente>
+            <ingrediente>Tomates en lata</ingrediente>
+            <ingrediente>Caldo de pollo</ingrediente>
+            <ingrediente>Pan rallado</ingrediente>
+            <ingrediente>Sal</ingrediente>
+            <ingrediente>Pimienta</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Cortar la cebolla y el ajo en trozos pequeños.</paso>
+            <paso>Saltear la cebolla y el ajo en una olla hasta que estén dorados.</paso>
+            <paso>Añadir los tomates en lata y el caldo de pollo a la olla y dejar hervir.</paso>
+            <paso>Triturar la mezcla con una batidora de mano hasta que esté suave.</paso>
+            <paso>Añadir el pan rallado y mezclar bien.</paso>
+            <paso>Sazonar con sal y pimienta al gusto.</paso>
+            <paso>Servir caliente.</paso>
+        </preparacion>
+    </receta>
+
+    <receta>
+        <nombre>Empanadas de salchicha</nombre>
+        <dificultad>Díficil</dificultad>
+        <cocina>Moderno</cocina>
+        <Vegetariana>No</Vegetariana>
+        <celicos>Sí</celicos>
+        <tiempo>1h 15 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>Pollo cocido y desmenuzado</ingrediente>
+            <ingrediente>Lechuga</ingrediente>
+            <ingrediente>Tomates cherry</ingrediente>
+            <ingrediente>Pimiento rojo</ingrediente>
+            <ingrediente>Cebolla morada</ingrediente>
+            <ingrediente>Maíz dulce</ingrediente>
+            <ingrediente>Aderezo para ensalada</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Lavar y cortar la lechuga en trozos pequeños.</paso>
+            <paso>Cortar los tomates cherry por la mitad.</paso>
+            <paso>Cortar el pimiento rojo en tiras finas.</paso>
+            <paso>Cortar la cebolla morada en tiras finas.</paso>
+            <paso>Mezclar todos los ingredientes en un tazón grande.</paso>
+            <paso>Añadir el pollo desmenuzado y mezclar bien.</paso>
+            <paso>Añadir aderezo para ensalada al gusto y mezclar bien.</paso>
+            <paso>Servir frío.</paso>
+        </preparacion>
+    </receta>
+    <!-- 10 - 20 -->
+    <receta>
+        <nombre>Bondiola de cerdo a la cacerola</nombre>
+        <dificultad>Fácil</dificultad>
+        <cocina>Tradicional</cocina>
+        <Vegetariana>Sí</Vegetariana>
+        <celicos>Sí</celicos>
+        <tiempo>30 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>1 bola de masa de pizza</ingrediente>
+            <ingrediente>200 gramos de tomate triturado</ingrediente>
+            <ingrediente>1 bola de mozzarella fresca</ingrediente>
+            <ingrediente>Orégano al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>1. Precalentar el horno a 200 grados Celsius.</paso>
+            <paso>2. Extender la masa de pizza sobre una bandeja para hornear.</paso>
+            <paso>3. Cubrir la masa con el tomate triturado.</paso>
+            <paso>4. Añadir la mozzarella fresca cortada en rodajas.</paso>
+            <paso>5. Espolvorear con orégano al gusto.</paso>
+            <paso>6. Hornear durante 15-20 minutos o hasta que la pizza esté dorada.</paso>
+        </preparacion>
+        <imagen>/imatges/descarga.jpg</imagen>
+    </receta>
+    
+    <receta>
+        <nombre>Pancakes de avena</nombre>
+        <dificultad>Media</dificultad>
+        <cocina>Moderno</cocina>
+        <Vegetariana>sí</Vegetariana>
+        <celicos>No</celicos>
+        <tiempo>45 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>Cebolla</ingrediente>
+            <ingrediente>Ajo</ingrediente>
+            <ingrediente>Tomates en lata</ingrediente>
+            <ingrediente>Caldo de pollo</ingrediente>
+            <ingrediente>Pan rallado</ingrediente>
+            <ingrediente>Sal</ingrediente>
+            <ingrediente>Pimienta</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Cortar la cebolla y el ajo en trozos pequeños.</paso>
+            <paso>Saltear la cebolla y el ajo en una olla hasta que estén dorados.</paso>
+            <paso>Añadir los tomates en lata y el caldo de pollo a la olla y dejar hervir.</paso>
+            <paso>Triturar la mezcla con una batidora de mano hasta que esté suave.</paso>
+            <paso>Añadir el pan rallado y mezclar bien.</paso>
+            <paso>Sazonar con sal y pimienta al gusto.</paso>
+            <paso>Servir caliente.</paso>
+        </preparacion>
+    </receta>
+
+    <receta>
+        <nombre>Bizcocho en freidora de aire</nombre>
+        <dificultad>Díficil</dificultad>
+        <cocina>Moderno</cocina>
+        <Vegetariana>No</Vegetariana>
+        <celicos>Sí</celicos>
+        <tiempo>1h 15 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>Pollo cocido y desmenuzado</ingrediente>
+            <ingrediente>Lechuga</ingrediente>
+            <ingrediente>Tomates cherry</ingrediente>
+            <ingrediente>Pimiento rojo</ingrediente>
+            <ingrediente>Cebolla morada</ingrediente>
+            <ingrediente>Maíz dulce</ingrediente>
+            <ingrediente>Aderezo para ensalada</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Lavar y cortar la lechuga en trozos pequeños.</paso>
+            <paso>Cortar los tomates cherry por la mitad.</paso>
+            <paso>Cortar el pimiento rojo en tiras finas.</paso>
+            <paso>Cortar la cebolla morada en tiras finas.</paso>
+            <paso>Mezclar todos los ingredientes en un tazón grande.</paso>
+            <paso>Añadir el pollo desmenuzado y mezclar bien.</paso>
+            <paso>Añadir aderezo para ensalada al gusto y mezclar bien.</paso>
+            <paso>Servir frío.</paso>
+        </preparacion>
+    </receta>
+
+    <receta>
+        <nombre>Masa para donas</nombre>
+        <dificultad>Fácil</dificultad>
+        <cocina>Tradicional</cocina>
+        <Vegetariana>Sí</Vegetariana>
+        <celicos>Sí</celicos>
+        <tiempo>30 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>1 bola de masa de pizza</ingrediente>
+            <ingrediente>200 gramos de tomate triturado</ingrediente>
+            <ingrediente>1 bola de mozzarella fresca</ingrediente>
+            <ingrediente>Orégano al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>1. Precalentar el horno a 200 grados Celsius.</paso>
+            <paso>2. Extender la masa de pizza sobre una bandeja para hornear.</paso>
+            <paso>3. Cubrir la masa con el tomate triturado.</paso>
+            <paso>4. Añadir la mozzarella fresca cortada en rodajas.</paso>
+            <paso>5. Espolvorear con orégano al gusto.</paso>
+            <paso>6. Hornear durante 15-20 minutos o hasta que la pizza esté dorada.</paso>
+        </preparacion>
+        <imagen>/imatges/descarga.jpg</imagen>
+    </receta>
+
+    <receta>
+        <nombre>Ceviche verde</nombre>
+        <dificultad>Media</dificultad>
+        <cocina>Moderno</cocina>
+        <Vegetariana>sí</Vegetariana>
+        <celicos>No</celicos>
+        <tiempo>45 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>Cebolla</ingrediente>
+            <ingrediente>Ajo</ingrediente>
+            <ingrediente>Tomates en lata</ingrediente>
+            <ingrediente>Caldo de pollo</ingrediente>
+            <ingrediente>Pan rallado</ingrediente>
+            <ingrediente>Sal</ingrediente>
+            <ingrediente>Pimienta</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Cortar la cebolla y el ajo en trozos pequeños.</paso>
+            <paso>Saltear la cebolla y el ajo en una olla hasta que estén dorados.</paso>
+            <paso>Añadir los tomates en lata y el caldo de pollo a la olla y dejar hervir.</paso>
+            <paso>Triturar la mezcla con una batidora de mano hasta que esté suave.</paso>
+            <paso>Añadir el pan rallado y mezclar bien.</paso>
+            <paso>Sazonar con sal y pimienta al gusto.</paso>
+            <paso>Servir caliente.</paso>
+        </preparacion>
+    </receta>
+
+    <receta>
+        <nombre>Pastel de Zanahoria</nombre>
+        <dificultad>Díficil</dificultad>
+        <cocina>Moderno</cocina>
+        <Vegetariana>No</Vegetariana>
+        <celicos>Sí</celicos>
+        <tiempo>1h 15 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>Pollo cocido y desmenuzado</ingrediente>
+            <ingrediente>Lechuga</ingrediente>
+            <ingrediente>Tomates cherry</ingrediente>
+            <ingrediente>Pimiento rojo</ingrediente>
+            <ingrediente>Cebolla morada</ingrediente>
+            <ingrediente>Maíz dulce</ingrediente>
+            <ingrediente>Aderezo para ensalada</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Lavar y cortar la lechuga en trozos pequeños.</paso>
+            <paso>Cortar los tomates cherry por la mitad.</paso>
+            <paso>Cortar el pimiento rojo en tiras finas.</paso>
+            <paso>Cortar la cebolla morada en tiras finas.</paso>
+            <paso>Mezclar todos los ingredientes en un tazón grande.</paso>
+            <paso>Añadir el pollo desmenuzado y mezclar bien.</paso>
+            <paso>Añadir aderezo para ensalada al gusto y mezclar bien.</paso>
+            <paso>Servir frío.</paso>
+        </preparacion>
+    </receta>
+
+    <receta>
+        <nombre>Tortas fritas al horno</nombre>
+        <dificultad>Fácil</dificultad>
+        <cocina>Tradicional</cocina>
+        <Vegetariana>Sí</Vegetariana>
+        <celicos>Sí</celicos>
+        <tiempo>30 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>1 bola de masa de pizza</ingrediente>
+            <ingrediente>200 gramos de tomate triturado</ingrediente>
+            <ingrediente>1 bola de mozzarella fresca</ingrediente>
+            <ingrediente>Orégano al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>1. Precalentar el horno a 200 grados Celsius.</paso>
+            <paso>2. Extender la masa de pizza sobre una bandeja para hornear.</paso>
+            <paso>3. Cubrir la masa con el tomate triturado.</paso>
+            <paso>4. Añadir la mozzarella fresca cortada en rodajas.</paso>
+            <paso>5. Espolvorear con orégano al gusto.</paso>
+            <paso>6. Hornear durante 15-20 minutos o hasta que la pizza esté dorada.</paso>
+        </preparacion>
+        <imagen>/imatges/descarga.jpg</imagen>
+    </receta>
+
+    <receta>
+        <nombre>Tarta de Ciruelas</nombre>
+        <dificultad>Media</dificultad>
+        <cocina>Moderno</cocina>
+        <Vegetariana>sí</Vegetariana>
+        <celicos>No</celicos>
+        <tiempo>45 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>Cebolla</ingrediente>
+            <ingrediente>Ajo</ingrediente>
+            <ingrediente>Tomates en lata</ingrediente>
+            <ingrediente>Caldo de pollo</ingrediente>
+            <ingrediente>Pan rallado</ingrediente>
+            <ingrediente>Sal</ingrediente>
+            <ingrediente>Pimienta</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Cortar la cebolla y el ajo en trozos pequeños.</paso>
+            <paso>Saltear la cebolla y el ajo en una olla hasta que estén dorados.</paso>
+            <paso>Añadir los tomates en lata y el caldo de pollo a la olla y dejar hervir.</paso>
+            <paso>Triturar la mezcla con una batidora de mano hasta que esté suave.</paso>
+            <paso>Añadir el pan rallado y mezclar bien.</paso>
+            <paso>Sazonar con sal y pimienta al gusto.</paso>
+            <paso>Servir caliente.</paso>
+        </preparacion>
+    </receta>
+
+    <receta>
+        <nombre>Bondiola de cerdo a la cacerola</nombre>
+        <dificultad>Díficil</dificultad>
+        <cocina>Moderno</cocina>
+        <Vegetariana>No</Vegetariana>
+        <celicos>Sí</celicos>
+        <tiempo>1h 15 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>Pollo cocido y desmenuzado</ingrediente>
+            <ingrediente>Lechuga</ingrediente>
+            <ingrediente>Tomates cherry</ingrediente>
+            <ingrediente>Pimiento rojo</ingrediente>
+            <ingrediente>Cebolla morada</ingrediente>
+            <ingrediente>Maíz dulce</ingrediente>
+            <ingrediente>Aderezo para ensalada</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Lavar y cortar la lechuga en trozos pequeños.</paso>
+            <paso>Cortar los tomates cherry por la mitad.</paso>
+            <paso>Cortar el pimiento rojo en tiras finas.</paso>
+            <paso>Cortar la cebolla morada en tiras finas.</paso>
+            <paso>Mezclar todos los ingredientes en un tazón grande.</paso>
+            <paso>Añadir el pollo desmenuzado y mezclar bien.</paso>
+            <paso>Añadir aderezo para ensalada al gusto y mezclar bien.</paso>
+            <paso>Servir frío.</paso>
+        </preparacion>
+    </receta>
+    <!-- 20 - 30 -->
+    <receta>
+        <nombre>Bondiola de cerdo a la cacerola</nombre>
+        <dificultad>Fácil</dificultad>
+        <cocina>Tradicional</cocina>
+        <Vegetariana>Sí</Vegetariana>
+        <celicos>Sí</celicos>
+        <tiempo>30 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>1 bola de masa de pizza</ingrediente>
+            <ingrediente>200 gramos de tomate triturado</ingrediente>
+            <ingrediente>1 bola de mozzarella fresca</ingrediente>
+            <ingrediente>Orégano al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>1. Precalentar el horno a 200 grados Celsius.</paso>
+            <paso>2. Extender la masa de pizza sobre una bandeja para hornear.</paso>
+            <paso>3. Cubrir la masa con el tomate triturado.</paso>
+            <paso>4. Añadir la mozzarella fresca cortada en rodajas.</paso>
+            <paso>5. Espolvorear con orégano al gusto.</paso>
+            <paso>6. Hornear durante 15-20 minutos o hasta que la pizza esté dorada.</paso>
+        </preparacion>
+        <imagen>/imatges/descarga.jpg</imagen>
+    </receta>
+    
+    <receta>
+        <nombre>Pancakes de avena 2</nombre>
+        <dificultad>Media</dificultad>
+        <cocina>Moderno</cocina>
+        <Vegetariana>sí</Vegetariana>
+        <celicos>No</celicos>
+        <tiempo>45 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>Cebolla</ingrediente>
+            <ingrediente>Ajo</ingrediente>
+            <ingrediente>Tomates en lata</ingrediente>
+            <ingrediente>Caldo de pollo</ingrediente>
+            <ingrediente>Pan rallado</ingrediente>
+            <ingrediente>Sal</ingrediente>
+            <ingrediente>Pimienta</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Cortar la cebolla y el ajo en trozos pequeños.</paso>
+            <paso>Saltear la cebolla y el ajo en una olla hasta que estén dorados.</paso>
+            <paso>Añadir los tomates en lata y el caldo de pollo a la olla y dejar hervir.</paso>
+            <paso>Triturar la mezcla con una batidora de mano hasta que esté suave.</paso>
+            <paso>Añadir el pan rallado y mezclar bien.</paso>
+            <paso>Sazonar con sal y pimienta al gusto.</paso>
+            <paso>Servir caliente.</paso>
+        </preparacion>
+    </receta>
+
+    <receta>
+        <nombre>Bizcocho en freidora de aire 2</nombre>
+        <dificultad>Díficil</dificultad>
+        <cocina>Moderno</cocina>
+        <Vegetariana>No</Vegetariana>
+        <celicos>Sí</celicos>
+        <tiempo>1h 15 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>Pollo cocido y desmenuzado</ingrediente>
+            <ingrediente>Lechuga</ingrediente>
+            <ingrediente>Tomates cherry</ingrediente>
+            <ingrediente>Pimiento rojo</ingrediente>
+            <ingrediente>Cebolla morada</ingrediente>
+            <ingrediente>Maíz dulce</ingrediente>
+            <ingrediente>Aderezo para ensalada</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Lavar y cortar la lechuga en trozos pequeños.</paso>
+            <paso>Cortar los tomates cherry por la mitad.</paso>
+            <paso>Cortar el pimiento rojo en tiras finas.</paso>
+            <paso>Cortar la cebolla morada en tiras finas.</paso>
+            <paso>Mezclar todos los ingredientes en un tazón grande.</paso>
+            <paso>Añadir el pollo desmenuzado y mezclar bien.</paso>
+            <paso>Añadir aderezo para ensalada al gusto y mezclar bien.</paso>
+            <paso>Servir frío.</paso>
+        </preparacion>
+    </receta>
+
+    <receta>
+        <nombre>Masa para donas 2</nombre>
+        <dificultad>Fácil</dificultad>
+        <cocina>Tradicional</cocina>
+        <Vegetariana>Sí</Vegetariana>
+        <celicos>Sí</celicos>
+        <tiempo>30 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>1 bola de masa de pizza</ingrediente>
+            <ingrediente>200 gramos de tomate triturado</ingrediente>
+            <ingrediente>1 bola de mozzarella fresca</ingrediente>
+            <ingrediente>Orégano al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>1. Precalentar el horno a 200 grados Celsius.</paso>
+            <paso>2. Extender la masa de pizza sobre una bandeja para hornear.</paso>
+            <paso>3. Cubrir la masa con el tomate triturado.</paso>
+            <paso>4. Añadir la mozzarella fresca cortada en rodajas.</paso>
+            <paso>5. Espolvorear con orégano al gusto.</paso>
+            <paso>6. Hornear durante 15-20 minutos o hasta que la pizza esté dorada.</paso>
+        </preparacion>
+        <imagen>/imatges/descarga.jpg</imagen>
+    </receta>
+
+    <receta>
+        <nombre>Ceviche verde 2</nombre>
+        <dificultad>Media</dificultad>
+        <cocina>Moderno</cocina>
+        <Vegetariana>sí</Vegetariana>
+        <celicos>No</celicos>
+        <tiempo>45 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>Cebolla</ingrediente>
+            <ingrediente>Ajo</ingrediente>
+            <ingrediente>Tomates en lata</ingrediente>
+            <ingrediente>Caldo de pollo</ingrediente>
+            <ingrediente>Pan rallado</ingrediente>
+            <ingrediente>Sal</ingrediente>
+            <ingrediente>Pimienta</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Cortar la cebolla y el ajo en trozos pequeños.</paso>
+            <paso>Saltear la cebolla y el ajo en una olla hasta que estén dorados.</paso>
+            <paso>Añadir los tomates en lata y el caldo de pollo a la olla y dejar hervir.</paso>
+            <paso>Triturar la mezcla con una batidora de mano hasta que esté suave.</paso>
+            <paso>Añadir el pan rallado y mezclar bien.</paso>
+            <paso>Sazonar con sal y pimienta al gusto.</paso>
+            <paso>Servir caliente.</paso>
+        </preparacion>
+    </receta>
+
+    <receta>
+        <nombre>Pastel de Zanahoria 2</nombre>
+        <dificultad>Díficil</dificultad>
+        <cocina>Moderno</cocina>
+        <Vegetariana>No</Vegetariana>
+        <celicos>Sí</celicos>
+        <tiempo>1h 15 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>Pollo cocido y desmenuzado</ingrediente>
+            <ingrediente>Lechuga</ingrediente>
+            <ingrediente>Tomates cherry</ingrediente>
+            <ingrediente>Pimiento rojo</ingrediente>
+            <ingrediente>Cebolla morada</ingrediente>
+            <ingrediente>Maíz dulce</ingrediente>
+            <ingrediente>Aderezo para ensalada</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Lavar y cortar la lechuga en trozos pequeños.</paso>
+            <paso>Cortar los tomates cherry por la mitad.</paso>
+            <paso>Cortar el pimiento rojo en tiras finas.</paso>
+            <paso>Cortar la cebolla morada en tiras finas.</paso>
+            <paso>Mezclar todos los ingredientes en un tazón grande.</paso>
+            <paso>Añadir el pollo desmenuzado y mezclar bien.</paso>
+            <paso>Añadir aderezo para ensalada al gusto y mezclar bien.</paso>
+            <paso>Servir frío.</paso>
+        </preparacion>
+    </receta>
+
+    <receta>
+        <nombre>Tortas fritas al horno 2</nombre>
+        <dificultad>Fácil</dificultad>
+        <cocina>Tradicional</cocina>
+        <Vegetariana>Sí</Vegetariana>
+        <celicos>Sí</celicos>
+        <tiempo>30 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>1 bola de masa de pizza</ingrediente>
+            <ingrediente>200 gramos de tomate triturado</ingrediente>
+            <ingrediente>1 bola de mozzarella fresca</ingrediente>
+            <ingrediente>Orégano al gusto</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>1. Precalentar el horno a 200 grados Celsius.</paso>
+            <paso>2. Extender la masa de pizza sobre una bandeja para hornear.</paso>
+            <paso>3. Cubrir la masa con el tomate triturado.</paso>
+            <paso>4. Añadir la mozzarella fresca cortada en rodajas.</paso>
+            <paso>5. Espolvorear con orégano al gusto.</paso>
+            <paso>6. Hornear durante 15-20 minutos o hasta que la pizza esté dorada.</paso>
+        </preparacion>
+        <imagen>/imatges/descarga.jpg</imagen>
+    </receta>
+
+    <receta>
+        <nombre>Tarta de Ciruelas 2</nombre>
+        <dificultad>Media</dificultad>
+        <cocina>Moderno</cocina>
+        <Vegetariana>sí</Vegetariana>
+        <celicos>No</celicos>
+        <tiempo>45 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>Cebolla</ingrediente>
+            <ingrediente>Ajo</ingrediente>
+            <ingrediente>Tomates en lata</ingrediente>
+            <ingrediente>Caldo de pollo</ingrediente>
+            <ingrediente>Pan rallado</ingrediente>
+            <ingrediente>Sal</ingrediente>
+            <ingrediente>Pimienta</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Cortar la cebolla y el ajo en trozos pequeños.</paso>
+            <paso>Saltear la cebolla y el ajo en una olla hasta que estén dorados.</paso>
+            <paso>Añadir los tomates en lata y el caldo de pollo a la olla y dejar hervir.</paso>
+            <paso>Triturar la mezcla con una batidora de mano hasta que esté suave.</paso>
+            <paso>Añadir el pan rallado y mezclar bien.</paso>
+            <paso>Sazonar con sal y pimienta al gusto.</paso>
+            <paso>Servir caliente.</paso>
+        </preparacion>
+    </receta>
+
+    <receta>
+        <nombre>Bondiola de cerdo a la cacerola 2</nombre>
+        <dificultad>Díficil</dificultad>
+        <cocina>Moderno</cocina>
+        <Vegetariana>No</Vegetariana>
+        <celicos>Sí</celicos>
+        <tiempo>1h 15 minutos</tiempo>
+        <ingredientes>
+            <ingrediente>Pollo cocido y desmenuzado</ingrediente>
+            <ingrediente>Lechuga</ingrediente>
+            <ingrediente>Tomates cherry</ingrediente>
+            <ingrediente>Pimiento rojo</ingrediente>
+            <ingrediente>Cebolla morada</ingrediente>
+            <ingrediente>Maíz dulce</ingrediente>
+            <ingrediente>Aderezo para ensalada</ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso>Lavar y cortar la lechuga en trozos pequeños.</paso>
+            <paso>Cortar los tomates cherry por la mitad.</paso>
+            <paso>Cortar el pimiento rojo en tiras finas.</paso>
+            <paso>Cortar la cebolla morada en tiras finas.</paso>
+            <paso>Mezclar todos los ingredientes en un tazón grande.</paso>
+            <paso>Añadir el pollo desmenuzado y mezclar bien.</paso>
+            <paso>Añadir aderezo para ensalada al gusto y mezclar bien.</paso>
+            <paso>Servir frío.</paso>
+        </preparacion>
+    </receta>
+</recetas>
+
+
+

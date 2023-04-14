@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <link rel="stylesheet" href="../css/estilo.css">
+    <title>Contacto</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='../CSS/estilo.css'>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <a href="../index.html"><img src="../imatges/Logo-Delicias.png"></a>
+        </div>
+    </header>
+    <nav>
+        <ul class="menu">
+            <li><a href="../index.html">Inicio</a></li>
+            <li><a href="./sobremi.html"> Sobre mí</a></li>
+            <li><a href="./listareceta/recetasbueno.xml"> Recetas</a></li>
+            <li><a href="./contacto.html">Contacto</a></li>
+            <li><a href="./otrasCosas.html">Otras cosas</a></li>
+        </ul>
+    </nav>
+    <form action="https://www.SnapHost.com/captcha/send.aspx" method="post" id="myform" target="_top">
+        <label for="nom">Nombre: *</label><br><br>
+        <input placeholder="Paco" type="text" id="nom" name="nom" required><br><br>
+        <label for="cognom1">Primer apellido: *</label><br><br>
+        <input placeholder="Sanchez" type="text" id="cognom1" name="cognom1" required><br><br>
+        <label for="cognom2">Segundo apellido:</label><br><br>
+        <input placeholder="Gomez" type="text" id="cognom2" name="cognom2"><br><br>
+        <label for="correu">Correo electrónico: *</label><br><br>
+        <input placeholder="pacoshgmz@gmail.com" type="email" id="correu" name="correu" required><br><br>            
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="stylesheet" href="contacte.css" />
+        <link
+          rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.css"
+        />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
+        <div class="container">
+        <label>Número de teléfono: *</label><br><br>
+        <input id="phone" type="tel" name="phone" required/><br><br>
+           </div>
+           <script>
+            const phoneInputField = document.querySelector("#phone");
+            const phoneInput = window.intlTelInput(phoneInputField, {
+              utilsScript:
+                "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/utils.js",
+            });
+          </script>
+        <label>Texto: *</label><br><br>
+        <textarea id="text" name="text" cols="30" rows="10" placeholder="Escribo para..."></textarea><br><br>
+        <input type="checkbox" id="privacidad" name="privacidad" required>
+        <label for="privacidad">Acepto la <a href="privacitat.html">política de privacidad</a>*</label><br><br>
+        <input type="hidden" id="skip_WhereToSend" name="skip_WhereToSend"
+        value="webcondalsl@gmail.com" />
+        <input type="hidden" id="skip_Subject" name="skip_Subject"
+        value="Incidencia" />
+        <input type="hidden" id="skip_WhereToReturn" name="skip_WhereToReturn"
+        value="../Pagina.html"/>
+        <input type="hidden" id="skip_SnapHostID" name="skip_SnapHostID"
+        value="S37ADLTFT726" />
+        <table cellspacing="0" border="0" cellpadding="8">
+        <tr><td colspan="2" style="padding-bottom:1px;">
+        <tr valign="bottom"><td>
+        <a class="boton" href="#" onclick="return ReloadCaptchaImage('CaptchaImage');"><span style="font-size:12px;">Recarrega la imatge</span></a><br />
+        <img id="CaptchaImage"
+        alt="captcha verification" style="border-width:0px;"
+        title="captcha verification"
+        src="https://www.SnapHost.com/captcha/CaptchaImage.aspx?id=S37ADLTFT726" >
+        </td><td>  <br />Introduce el Capcha<br />
+        <input id="skip_CaptchaCode" name="skip_CaptchaCode" type="text"
+        style="width:130px; height:48px; font-size:38px;" maxlength="6" /><br />
+        </td></tr></table> 
+        <script type="text/javascript">
+        function ReloadCaptchaImage(captchaImageId) {
+        var obj = document.getElementById(captchaImageId);
+        var src = '' + obj.src;
+        obj.src = '';
+        var date = new Date();
+        var pos = src.indexOf('&rad=');
+        if (pos >= 0) { src = src.substr(0, pos); }
+        obj.src = src + '&rad=' + date.getTime();
+        return false; }
+        </script>
+            <input type="submit" class="boton">
+    </form>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <footer>
+        <ul>
+            <li><a href="https://es-es.facebook.com/">Facebook</a></li>
+            <li><a href="https://twitter.com/?lang=ES"> Twitter</a></li>
+            <li><a href="https://www.instagram.com/">Instagram</a></li>
+            <li><a href="https://www.pinterest.es/">Pinterest</a></li>
+            <li><a href="https://www.google.com/intl/es/gmail/about/"> Email</a></li>
+            <li><a href="https://es.wikipedia.org/wiki/RSS">RSS</a></li>
+        </ul>
+    </footer>
+</body>
+</html>
