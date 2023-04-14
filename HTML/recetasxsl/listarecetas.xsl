@@ -14,7 +14,7 @@
 					<ul class="menu">
 						<li><a href="../../index.html">Inicio</a></li>
 						<li><a href="../sobremi.html"> Sobre mí</a></li>
-						<li><a href="./recetasbueno.xml"> Recetas</a></li>
+						<li><a href="../recetas/recetaslista.xml"> Recetas</a></li>
 						<li><a href="../contacto.html">Contacto</a></li>
 						<li><a href="../otrasCosas.html">Otras cosas</a></li>
 					</ul>
