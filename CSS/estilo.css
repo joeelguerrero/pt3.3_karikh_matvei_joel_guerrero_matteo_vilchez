@@ -237,22 +237,3 @@ form{
 	background:#037E8C;
 	font-weight:bold;
 }
-.listas {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
-.liLista {
-    margin-bottom: 20px;
-    border: 1px solid #ccc;
-    padding: 10px;
-    border-radius: 5px;
-}
-.h2listas {
-    margin-top: 0;
-    margin-bottom: 10px;
-}
-.plistas {
-    margin: 0;
-    margin-bottom: 10px;
-}

@@ -1,0 +1,102 @@
+.logo {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+nav {
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu li {
+    list-style: none;
+    margin: 20px;
+}
+
+.menu li a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.menu li a:hover {
+    padding: 5px;
+    background-color: #b5d118;
+    color: white;
+    border-radius: 15px;
+}
+/*
+.listas {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.liLista {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+}
+.h2listas {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+.plistas {
+    margin: 0;
+    margin-bottom: 10px;
+    font-family:'Gill Sans';
+} */
+.footer{
+    background-color: black;
+    box-shadow: 0 0 20px rgb(255, 255, 255);
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    justify-content: center;
+    height: 5%;
+    margin-top: 5%;
+}
+
+.footerul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 0%;
+    margin-top: 0%;
+}
+
+.footerulli{
+    margin: 20px;
+
+}
+
+.footerullia{
+    color: white;
+    text-shadow: 0 0 100px #fff;
+}
+.header {
+    text-align: center;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.header img {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.textolis{
+    font-family:'Gill Sans';
+}
