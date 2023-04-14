@@ -106,7 +106,7 @@
 			<ul class="ull">
 			<xsl:for-each select="recetas/receta">
 				<li class="lii">
-					<h2 class="h22"><xsl:value-of select="nombre"/></h2>
+					<a href="../recetas/recetas.xml"><h2 class="h22"><xsl:value-of select="nombre"/></h2></a>
 						<h3>Dificultad:</h3>
 							<ul class="ull">
 								<xsl:for-each select="dificultad">
